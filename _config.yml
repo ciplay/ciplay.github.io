@@ -1,17 +1,15 @@
-title: Mauricio Urraco
-description: Jekyll Theme Minimal Resume
-username: Mauricio Urraco
+title: Risky Satria's Portfolio
+description: Footage of My Career
+username: Risky Satria
 user_description: >-
-  I\'m a nomad Software Engineer, always searching for the next challenge; no
+  I'm a nomad Software Engineer, always searching for the next challenge; no
   task is too scary nor too difficult. Lately I have been immersed in the
-  <b>crypto-world</b> working for Radix, a London based startup trying to create
-  the next massive scalable DLT. I'm one of the two guys behind all the JS
-  related stuff.
-user_title: Software Engineer
-email: mauriurraco@gmail.com
+  <b>Client Side</b> using React. I used to be a Front End Web Developer and used to be Fullstack Monolith with Codeigniter.
+user_title: Product Engineer
+email: riskysatria666@gmail.com
 exclude:
   - package.json
   - src
   - node_modules
-baseurl: ''
-url: ''
+baseurl: ""
+url: ""
